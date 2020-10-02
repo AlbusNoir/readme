@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/{user}/{repo}?style=plastic&logo=appveyor)
 ![GitHub stars](https://img.shields.io/github/stars/{user}/{repo}?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/{user}/{repo}?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/{userID}?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/{userID}?style=social&link=http://left&link=http://right)
 <!--- The following can really be anything you want. Format for this is https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> --->
 ![License](https://img.shields.io/badge/license-licensetype-blue?style=plastic&logo=appveyor)
 ![Python-Version](https://img.shields.io/badge/language-version-blueviolet?style=plastic&logo=appveyor)
