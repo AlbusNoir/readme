@@ -1,11 +1,14 @@
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/{repo}/{file})
-![GitHub contributors](https://img.shields.io/github/contributors/{repo}/{file})
-![GitHub stars](https://img.shields.io/github/stars/{repo}/{file}?style=social)
-![GitHub forks](https://img.shields.io/github/forks/{repo}/{file}?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/{user}/{repo})
+![GitHub contributors](https://img.shields.io/github/contributors/{user}/{repo})
+![GitHub stars](https://img.shields.io/github/stars/{user}/{repo}?style=social)
+![GitHub forks](https://img.shields.io/github/forks/{user}/{repo}?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/{userID}?style=social)
+<!--- The following can really be anything you want. Format for this is https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> --->
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python-Version](https://img.shields.io/badge/python--version-3.X-blueviolet)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
