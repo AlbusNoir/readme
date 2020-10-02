@@ -8,7 +8,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/{userID}?style=social)
 <!--- The following can really be anything you want. Format for this is https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> --->
 ![License](https://img.shields.io/badge/license-licensetype-blue)
-![Python-Version](https://img.shields.io/badge/language--version-blueviolet)
+![Python-Version](https://img.shields.io/badge/language-version-blueviolet)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
