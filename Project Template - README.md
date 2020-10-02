@@ -1,14 +1,14 @@
 # Project name
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/{user}/{repo})
-![GitHub contributors](https://img.shields.io/github/contributors/{user}/{repo})
+<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here. Logos can be found at https://simpleicons.org/ --->
+![GitHub repo size](https://img.shields.io/github/repo-size/{user}/{repo}?style=plastic&logo=appveyor)
+![GitHub contributors](https://img.shields.io/github/contributors/{user}/{repo}?style=plastic&logo=appveyor)
 ![GitHub stars](https://img.shields.io/github/stars/{user}/{repo}?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/{user}/{repo}?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/{userID}?style=social)
 <!--- The following can really be anything you want. Format for this is https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> --->
-![License](https://img.shields.io/badge/license-licensetype-blue)
-![Python-Version](https://img.shields.io/badge/language-version-blueviolet)
+![License](https://img.shields.io/badge/license-licensetype-blue?style=plastic&logo=appveyor)
+![Python-Version](https://img.shields.io/badge/language-version-blueviolet?style=plastic&logo=appveyor)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
