@@ -134,7 +134,7 @@ User | Contribution |
 [contributors-shield]: https://img.shields.io/github/contributors/albusnoir/readme.svg?style=for-the-badge
 [contributors-url]: https://github.com/albusnoir/readme/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/albusnoir/readme.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
+[forks-url]: https://github.com/albusnoir/readme/network/members
 [stars-shield]: https://img.shields.io/github/stars/albusnoir/readme.svg?style=for-the-badge
 [stars-url]: https://github.com/albusnoir/readme/stargazers
 [license-shield]: https://img.shields.io/github/license/albusnoir/readme.svg?style=for-the-badge
