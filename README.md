@@ -10,7 +10,7 @@
 <h3 align="center">Readme Template</h3>
 <p align="center">
   <a href="https://github.com/albusnoir/readme" align="center">
-    <img src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/logo_2021.png" alt="Logo" width="50" height="50">
+    <img src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/logo_2021.png" alt="Logo" width="100" height="100">
   </a>
   <br />
   A repo to hold my readme templates
