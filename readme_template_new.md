@@ -160,6 +160,6 @@ User | Contribution |
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/github_username/repo/stargazers
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/github_username/repo/blob/master/LICENSE
 [twitter-shield]: https://img.shields.io/badge/-twitter-Twitter?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/twitter_username
