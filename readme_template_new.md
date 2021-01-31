@@ -5,7 +5,7 @@
 [![License][license-shield]][license-url]
 
 #### To save time, you're gonna want to search and replace the following:
-`github_username`, `repo_name`, `twitter_username`, `email`, `project_title`, `project_description`
+`github_username`, `repo_name`, `twitter_username`, `your_email`, `project_title`, `project_description`
 
 <!-- PROJECT LOGO -->
 <br />
