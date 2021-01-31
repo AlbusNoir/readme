@@ -4,14 +4,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![License][license-shield]][license-url]
 
-#### To save time, you're gonna want to search and replace the following:
-`github_username`, `repo_name`, `twitter_username`, `your_email`, `project_title`, `project_description`
+#### To save time, search and replace the following:
+`github_username`, `repo`, `twitter_username`, `your_email`, `project_title`
 
 <!-- PROJECT LOGO -->
 <br />
 <h3 align="center">project_title</h3>
 <p align="center">
-  <a href="https://github.com/github_username/repo_name" align="center">
+  <a href="https://github.com/github_username/repo" align="center">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   <br />
@@ -77,7 +77,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/github_username/repo.git
    ```
 2. Second part
    ```
